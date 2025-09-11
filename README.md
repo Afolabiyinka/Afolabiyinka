@@ -1,19 +1,28 @@
-### 👋 Hi there, I’m Afolabi Yinka
+## Hi! I'm Afolabiyinka 👋
 
----
+I'm a passionate student and frontend developer who loves building cool stuff with **React.js**, **JavaScript**, and **Tailwind CSS**.
 
-- 👀 I’m passionate about **Artificial Intelligence** and **Frontend Web Development**  
-- 🌱 I’m currently learning **React.js**, **UI/UX principles**, and leveling up my **JavaScript** skills, considering picking up **Typescript** 
-- 💡 I'm open to collaborating on cool projects, especially those related to AI or user-focused web apps  
-- 📫 Reach me via: [Email](mailto:Afolabiyinka728@gmail.com) | | [LinkedIn](https://www.linkedin.com/in/olayinka-afolabi-b8a6b4344/)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can break down complex tech stuff into simple terms that even my grandma would understand!
+### 🚀 My Top Projects
+- [Luxury-without-label](https://github.com/Afolabiyinka/Luxury-without-label)
+- [TMDB-Lite--](https://github.com/Afolabiyinka/TMDB-Lite--)
+- [expense_t](https://github.com/Afolabiyinka/expense_t)
+- [socially](https://github.com/Afolabiyinka/socially)
+- [task-tracker](https://github.com/Afolabiyinka/task-tracker)
 
----
+### ⚡ Skills & Tools
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Responsive Web Design
 
-> 🚀 I believe in continuous learning, building in public, and helping others grow too.
+### 🎯 About Me
+- 🌱 Currently learning and building new projects
+- 🎨 Love watching anime when I'm not coding
+- 💡 Always eager to explore new technologies
 
-<!---
-Afolabiyinka/Afolabiyinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+Social links, fun facts, or a personal motto can go here!
+-->
+
+Thanks for stopping by my profile!  
+Feel free to check out my projects or connect with me.
