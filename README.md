@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afolabiyinka&theme=algolia" alt="afolabiyinka" /></a> </p>
 
-- 🌱 I’m currently learning C# and the .Net framework,
 - 💬 Ask me about Javascript , *React and Express*
 - 📫 How to reach me *afolabiyinka@gmail.com*
 - 👨‍💻 All of my projects are available at **https://github.com/afolabiyinka**
