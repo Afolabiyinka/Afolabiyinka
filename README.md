@@ -28,7 +28,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afolabiyinka&layout=compact&theme=tokyonight" alt=JCDWHIZ />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=afolabiyinka&show_icons=true&locale=en&theme=tokyonight" alt="JCDWHIZ" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=afolabiyinka&show_icons=true&locale=en&theme=tokyonight" alt="afolabiyinka" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afolabiyinka&theme=tokyonight" alt="JCDWHIZ" /></p>
 
