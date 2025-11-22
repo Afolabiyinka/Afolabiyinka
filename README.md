@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+TypeScript+Lover;Building+cool+UIs+with+Tailwind+CSS" alt="Typing SVG" />
 </p>
-###
 
 <img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
