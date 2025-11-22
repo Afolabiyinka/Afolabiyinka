@@ -1,89 +1,91 @@
-<!-- Header Banner (optional)
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
--->
-
 <h1 align="center">Hi 👋, I'm Olayinka — a Frontend Developer passionate about building clean, modern web experiences.</h1>
+
+###
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+TypeScript+Lover;Building+cool+UIs+with+Tailwind+CSS" alt="Typing SVG" />
 </p>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afolabiyinka&label=Profile%20views&color=0e75b6&style=flat" alt="afolabiyinka" />
-</p>
+<img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afolabiyinka&label=Profile%20views&color=0e75b6&style=flat" alt="dreal-martins" /> </p>
 
-<p align="center">
-  <a href="https://github.com/afolabiyinka/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=afolabiyinka&theme=algolia" alt="afolabiyinka" />
-  </a>
-</p>
-
-
----
-
-### 💬 About Me
-- 💬 Ask me about **TypeScript, React, and TailwindCSS**
-- 📫 Reach me at **afolabiyinka@gmail.com**
-- 👨‍💻 Check out all my projects here:  
-  <a href="https://github.com/afolabiyinka?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-black?style=for-the-badge&logo=github" alt="projects"/>
-  </a>
-- ⚡ Fun fact: *I like watching anime* 🍥
-
----
-
-<div align="center">
-  <a href="https://github.com/afolabiyinka" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:afolabiyinka@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+<div align="left">
+  <h4>Languages and frameworks:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
----
-
-### 🧠 Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" width="40" height="40" style="margin:10px"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afolabiyinka&show_icons=true&locale=en&theme=tokyonight" alt="afolabiyinka" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afolabiyinka&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afolabiyinka&theme=tokyonight" alt="streak stats" />
+<div align="left">
+  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=afolabiyinka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="125" alt="languages graph"  />
 </div>
 
----
 
-### 🧩 Profile Summary
-<div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afolabiyinka&theme=gruvbox" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afolabiyinka&theme=gruvbox" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afolabiyinka&theme=2077" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afolabiyinka&theme=2077" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afolabiyinka&theme=2077" />
+###
+
+<img width="370" align="left" src="https://i.pinimg.com/474x/e8/55/cd/e855cda7e1a5b43e3ddfe324cb64e8a6.jpg"  />
+
+###
+
+<div align="left">
+  <h4>Other Technologies:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
 </div>
 
----
+###
 
-### ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afolabiyinka&theme=react-dark" alt="activity graph"/>
-</p>
 
----
+<div align="left">
+  <h4>Styling and design tech:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /> -->
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /> -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img width="12" />
+ <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+###
+
+<div align="left">
+  <h4 >Would like to learn:</h4>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="java logo"  />
+  <img width="10" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="php logo"  />
+ <img width="10" />
+</div>
+
+###
+
+
+<div align="centr">
+  <h4>Let's connect here:</h4>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
