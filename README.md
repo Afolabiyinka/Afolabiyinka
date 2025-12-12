@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olayinka — a Frontend Developer passionate about building clean, modern web experiences.</h1>
+<h1 align="center">Hi 👋, I'm Olayinka — a Frontend Developer building clean, modern web experiences.</h1>
 
 ###
 
@@ -6,83 +6,75 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+TypeScript+Lover;Building+cool+UIs+with+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
-<img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afolabiyinka&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afolabiyinka&label=Profile%20views&color=0e75b6&style=flat" alt="afolabiyinka" /> </p>
+---
 
-<div align="left">
-  <h4>Languages and frameworks:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+### 🚀 Languages & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+</p>
 
-<div align="left">
-  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=afolabiyinka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-</div>
+---
 
+### 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afolabiyinka&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=6&theme=dark&hide_border=true" height="150" />
+</p>
 
-###
+---
 
-<img width="370" align="left" src="https://i.pinimg.com/474x/e8/55/cd/e855cda7e1a5b43e3ddfe324cb64e8a6.jpg"  />
-
-###
-
-<div align="left">
-  <h4>Other Technologies:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+### 🧰 Other Technologies  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=babel" height="40" />
+</p>
 
-###
+---
 
-
-<div align="left">
-  <h4>Styling and design tech:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <!-- <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /> -->
-  <!-- <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /> -->
+### 🎨 Styling & UI  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
- <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" />
+</p>
 
-###
+---
 
-<div align="left">
-  <h4 >Would like to learn:</h4>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="java logo"  />
-  <img width="10" />
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="php logo"  />
- <img width="10" />
-</div>
+### 📚 Currently Learning / Want To Learn  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+</p>
 
-###
+---
 
-
-<div align="centr">
-  <h4>Let's connect here:</h4>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" alt="twitter logo"  />
+### 🌐 Connect with me  
+<p align="left">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
   </a>
-</div>
+</p>
