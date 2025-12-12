@@ -21,6 +21,11 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+    <img width="12" />
+<img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+
 </p>
 
 ---
