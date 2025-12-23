@@ -12,32 +12,38 @@
 
 ---
 
-### 🚀 Languages & Frameworks  
+## 🎨 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-    <img width="12" />
-<img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-
-</p>
+  <img src="https://skillicons.dev/icons?i=radix" height="40" /></p>
 
 ---
 
-### 📊 GitHub Stats  
+## 🧠 Backend
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afolabiyinka&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=6&theme=dark&hide_border=true" height="150" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
 </p>
 
 ---
 
-### 🧰 Other Technologies  
+## 🧰 Tooling & Workflow
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
@@ -52,25 +58,20 @@
 
 ---
 
-### 🎨 Styling & UI  
+### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afolabiyinka&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=6&theme=dark&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 📚 Currently Learning / Want To Learn  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="40" />
 </p>
+
 
 ---
 
