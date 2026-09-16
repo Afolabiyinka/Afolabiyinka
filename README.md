@@ -43,7 +43,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="40" />
+  <!-- <img src="https://skillicons.dev/icons?i=reactnative" height="40" /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons/?i=fastapi" height="40" />
 </p>
