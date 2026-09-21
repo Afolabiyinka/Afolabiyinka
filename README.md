@@ -1,61 +1,47 @@
-<h1 align="center">Hi 👋, I'm Olayinka — a Fullstack Developer building clean, modern web experiences.</h1>
+<h1 align="center">Hi 👋, I'm Olayinka</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+TypeScript+Lover;Building+cool+UIs+with+Tailwind+CSS" alt="Typing SVG" />
+  <strong>Full-Stack Developer building clean, modern, and scalable web experiences.</strong>
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afolabiyinka&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5EA500&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+%2B+TypeScript+Developer;Building+modern+web+experiences;Turning+ideas+into+products" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,radix,nodejs,express,postgresql,postman,docker" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,radix,nodejs,express,postgresql,docker" height="40" />
 </p>
 
 ---
 
-## 🧰 Tooling & Workflow
+## 🧰 Tools & Workflow
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=babel" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vite,webpack,babel,postman,vercel" height="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afolabiyinka&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=6&theme=dark&hide_border=true" height="150" />
-</p>
+## 🚀 What I Build
+
+* ⚡ Modern and responsive web applications
+* 🎨 Clean, accessible, and interactive user interfaces
+* 🔐 Full-stack applications with authentication and authorization
+* 🗄️ REST APIs and database-driven applications
+* 🐳 Containerized applications with Docker
+* 📦 Scalable frontend and backend architectures
 
 ---
 
-### 📚 Currently Learning / Want To Learn  
+## 📚 Currently Learning
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img width="12" />
-  <!-- <img src="https://skillicons.dev/icons?i=reactnative" height="40" /> -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons/?i=fastapi" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs" height="40" />
 </p>
 
----
+Currently exploring **Python, FastAPI, Next.js, DevOps, and scalable backend architecture.**
 
-### 🌐 Connect with me  
-<p align="left">
-  <a href="https://wa.me/2348086829143?text=Hi%20Olayinka%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20connect." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/olayinka-afolabi-b8a6b4344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-</p>
